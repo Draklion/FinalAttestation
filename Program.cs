@@ -25,6 +25,6 @@ else
   else
   {
     Console.Write("Результирующий массив: ");
-    for (int i = 0; i < count; i++) Console.Write(result[i] + " ");
+    for (int i = 0; i < count; i++) Console.Write(result[i] + "  ");
   }
 }
